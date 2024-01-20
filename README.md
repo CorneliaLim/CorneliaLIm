@@ -12,7 +12,9 @@
 </p>
 
 <h1 align="center">My Skills</h1>
-<h3 align="center"><img src="https://github.com/CorneliaLim/CorneliaLIm/assets/147963361/67c0de40-2550-4b2a-af3d-721687b8a4fa"/>
-</h3>
+<h3 align="left"><img src="https://github.com/CorneliaLim/CorneliaLIm/assets/147963361/67c0de40-2550-4b2a-af3d-721687b8a4fa"/>
+<p align="left">
+</p>
+
 
 
